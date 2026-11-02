@@ -1,4 +1,4 @@
-echo 'hello world'
+document.write('hello world')
 let x = 1 
 let y = 2
 let i = x+y 
